@@ -60,3 +60,7 @@ Run the following commands in the `svg/` directory to get PNGs of a desired widt
     rm *.png
 
 The resultant files will be in the `compressed-pngs` folder. As before, `1000:` is the dimensions to export.
+
+
+I added country-name-country-code.json, a reverse of the countries.json file
+This gives the country code based on the country name
